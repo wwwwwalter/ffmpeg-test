@@ -100,7 +100,7 @@ int simplest_rgb24_split(const char *url, int w, int h, int num) {
 
 
 
-int main(void) {
+int main_yuv(void) {
 
 #if 0
 	const char *filename = "C:\\Users\\admin\\Downloads\\stefan_cif\\stefan_cif.yuv";

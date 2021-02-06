@@ -33,5 +33,14 @@
     <ClCompile Include="yuv.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="h264.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="aac.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="udp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
