@@ -42,5 +42,8 @@
     <ClCompile Include="udp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pcm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -132,6 +132,7 @@
     <ClCompile Include="h264.cpp" />
     <ClCompile Include="hello.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="pcm.cpp" />
     <ClCompile Include="sws_scale.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="udp.cpp" />

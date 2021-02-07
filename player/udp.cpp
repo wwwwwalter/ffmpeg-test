@@ -192,7 +192,7 @@ int simplest_udp_parser(int port)
 	return 0;
 }
 
-int main(void) {
+int main_udp(void) {
 
 	simplest_udp_parser(8880);
 
